@@ -1,0 +1,24 @@
+.gray_box {
+    background-color:lightgray;
+    width: absolute;
+    border: 4px solid rgb(75, 131, 235);
+    margin: 2px;
+}
+
+.bold_center {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+}
+
+.img_1 {
+    margin-top: 3px;
+    border-image: 2px;
+    box-shadow: 4px;
+    border-radius: 40%;
+    display: block;
+    float: left;
+    max-width: 100%;
+    height: auto;
+}
